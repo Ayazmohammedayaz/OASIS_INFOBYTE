@@ -1,0 +1,29 @@
+.main{
+     width: 400px;
+    height: 400px;
+     /* margin-left: 300px; */
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+    form{
+        background-color: #91ca83;
+        padding: 50px;
+        display: flex;
+        flex-direction: column;
+        -webkit-box-shadow: 0 10px 6px -6px #777;
+        -moz-box-shadow: 0 10px 6px -6px #777;
+        box-shadow: 0 10px 6px -6px #777;
+        border-radius: 10px;
+        
+    }
+
+    #result{
+        margin-top: 30px;
+        width: auto;
+        
+    }
